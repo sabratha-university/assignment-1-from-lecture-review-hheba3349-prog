@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/aM4vVoua)
 # java-oop-assignment1
 “Java OOP assignment starter project  and UML practice.”
 
@@ -15,9 +16,11 @@ Edit the `Main.java` file and:
 3. Identify where **overloading** and **overriding** occur in the code and explain the difference below.
 
 **Answer:**
-> _Write your explanation here..._
+> _Write your explanation here. ---overloading.overriding._الفرق بين 
 
----
+---overloading ->  يكون عندما يتم تعريف اكثر من دالة بنفس الاسم داخل نفس الكلاس لكن يتم تمرير معاملات بعدد مختلف او نوع مختلف
+
+overriding  -> change method behaivorيكون عندما يتم تعريف  دالة اي تمت وراثتها من سوبر كلاس(الاب) بنفس الاسم والمعاملات داخل سوب كلاس (الابن) وتغير في وظائفها
 
 ## 🎨 Part 2 – UML Diagram
 Draw the UML diagram using drwa.io or lucidchart for the Shape example (Shape → Circle → Movable, Adjustable.)  
